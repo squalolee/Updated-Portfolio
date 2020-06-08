@@ -10364,3 +10364,8 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+#my-pic {
+  width: 240px;
+  height: 380px;
+}
